@@ -1,5 +1,7 @@
 # Big_data_Final_assignment
-Big data final assignment MSC's computational biology.
+Big data final assignment of MSC's computational biology.
+
+Students of the group: Paula Fernández Aldama, Marta Fernández González, Pablo Mata Aroco, Laura Pérez Liens
 
 ## Objective.
 
